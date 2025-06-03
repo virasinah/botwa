@@ -1,4 +1,4 @@
-<h1 align="center"> ✧ PeyXBot ✧ </h1>
+<h1 align="center"> ✧ VallBot ✧ </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Capriola&size=40&duration=4000&pause=450&color=F70069&background=FFFFAA00&center=true&random=false&width=600&height=100&lines=Peyx Store!;Bot WhatsApp!" />
@@ -9,7 +9,7 @@
     <img src="https://graph.org/file/14d7cc038fa3192a8fe43.jpg" width="249">
 </p>
 
-<h1 align="center"> PeyX BoT (Beta)</h1>
+<h1 align="center"> Vall BoT (Beta)</h1>
 
 <p align="center"> 
   Hi there, I'm "Elma," a versatile WhatsApp bot created and reprogrammed by Newbie to perform a wide array of functions based on WhatsApp Multi-Device (MD) Support.
