@@ -32,12 +32,12 @@ global.prefa = process.env.PREFIX ? process.env.PREFIX.split("/") : ["."];
 
 
 // Owner information
-global.Owner = process.env.OWNER ? process.env.OWNER.split(",") : ["6283151636921"];
-global.OwnerNumber = process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.split(",") : ["6283151636921"];
-global.ownertag = process.env.OWNER_TAG ? process.env.OWNER_TAG.split(",") : ["6283151636921"];
-global.OwnerName = process.env.OWNER_NAME || "𝙋𝙚𝙮𝙭";
-global.BotName = process.env.BOT_NAME || "⪨༒𓊈𒆜𝐁𝐎𝐓𝐙 𝐏𝐗 𝐒𝐓𝐎𝐑𝐄𒆜𓊉༒⪩";
-global.packname = process.env.PACK_NAME || "𝐁𝐎𝐓𝐙 𝐏𝐗";
+global.Owner = process.env.OWNER ? process.env.OWNER.split(",") : ["62882008880676"];
+global.OwnerNumber = process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.split(",") : ["62882008880676"];
+global.ownertag = process.env.OWNER_TAG ? process.env.OWNER_TAG.split(",") : ["62882008880676"];
+global.OwnerName = process.env.OWNER_NAME || "VALL";
+global.BotName = process.env.BOT_NAME || "⪨༒𓊈𒆜𝐁𝐎𝐓𝐙 VA 𝐒𝐓𝐎𝐑𝐄𒆜𓊉༒⪩";
+global.packname = process.env.PACK_NAME || "𝐁𝐎𝐓𝐙 VAL";
 global.author = "By: peyx";
 global.BotSourceCode = "https://github.com/p3yx/botwa";
 global.SupportGroupLink = "https://chat.whatsapp.com/HNACwQRxuoY7rVg6q12d4m";
